@@ -1,0 +1,5 @@
+Using the same transaction dataset, identify the annual salary for each customer
+Explore correlations between annual salary and various customer attributes (e.g. age). 
+These attributes could be those that are readily available in the data (e.g. age) or those that you construct or derive yourself (e.g. those relating to purchasing behaviour). 
+Visualise any interesting correlations using a scatter plot.
+Build a simple regression model to predict the annual salary for each customer using the attributes you identified above 
